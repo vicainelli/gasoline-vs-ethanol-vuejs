@@ -1,4 +1,4 @@
-# gasoline-vs-ethanol-vuejs
+# Gasoline VS Ethanol VueJS
 
 ## Project setup
 ```
